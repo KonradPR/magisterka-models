@@ -10,3 +10,4 @@ source $CONDA_PREFIX/etc/conda/activate.d/env_vars.sh
 
 conda activate tf
 jupyter notebook --no-browser
+
