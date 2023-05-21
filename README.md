@@ -23,3 +23,7 @@ sub Elapsed time:  1634.3169915676117 seconds
 Train time for Autoencoder 10 epochs:
 non sub Elapsed time:  402.99103808403015 seconds
 sub Elapsed time:  379.51816868782043 seconds
+
+Train time for Transformer 10 epochs:
+non sub Elapsed time: 951.6299428939819 seconds
+sub Elapsed time: 731.0645015239716 seconds
