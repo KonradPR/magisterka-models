@@ -27,3 +27,7 @@ sub Elapsed time:  379.51816868782043 seconds
 Train time for Transformer 10 epochs:
 non sub Elapsed time: 951.6299428939819 seconds
 sub Elapsed time: 731.0645015239716 seconds
+
+Train time for svm:
+non sub Elapsed time:  7288.655417919159 seconds
+sub Elapsed time:  2652.528799057007 seconds
