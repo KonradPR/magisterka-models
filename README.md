@@ -31,3 +31,31 @@ sub Elapsed time: 731.0645015239716 seconds
 Train time for svm:
 non sub Elapsed time:  7288.655417919159 seconds
 sub Elapsed time:  2652.528799057007 seconds
+
+211600
+180000
+
+
+Model sub predictions: 21.249239444732666 seconds
+Suma trenowalnych parametrów: 192545
+Suma trenowalnych parametrów sub: 160161
+Running predictions for transformer
+Model predictions: 22.944324016571045 seconds
+Model sub predictions: 22.16677451133728 seconds
+Suma trenowalnych parametrów: 71777
+Suma trenowalnych parametrów sub: 67681
+Running predictions for lstm
+Model predictions: 49.38928747177124 seconds
+Model sub predictions: 32.75259304046631 seconds
+Suma trenowalnych parametrów: 620321
+Suma trenowalnych parametrów sub: 604321
+Running predictions for autoencoder
+Model predictions: 22.603391885757446 seconds
+Model sub predictions: 21.303611516952515 seconds
+Suma trenowalnych parametrów: 148288
+Suma trenowalnych parametrów sub: 37280
+Running predictions for svm
+Model predictions: 2187.1206471920013 seconds
+Model sub predictions: 1154.9324202537537 seconds
+
+117899
